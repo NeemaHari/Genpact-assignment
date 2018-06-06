@@ -1,0 +1,44 @@
+.ms-Dropdown-container {
+    display: inline-block !important;
+    width: 20%;
+    margin: 1%;
+}
+
+.button-container {
+    margin-left: 1%;
+    margin-bottom: 2%;
+}
+
+.button-container > button {
+    margin-right: 1%;
+}
+
+.table-container {
+    margin-bottom: 3%;
+}
+
+div.pagination-table > table.table {
+    margin: 1%;
+    width: 86%;
+    border: 1px solid black;
+}
+
+div.pagination-table > table.table > thead > tr > th{
+    text-align: left;
+} 
+
+.user-container {
+    margin: 1%;
+}
+
+.user-container > .user-input{
+    width: 20%;
+}
+
+.user-container > .persona{
+    margin: 1%;
+}
+
+.border {
+    border-bottom: 2px solid black;
+}
